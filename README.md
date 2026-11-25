@@ -1,3 +1,6 @@
+![network-topology](topology.png)
+
+
 Enterprise Campus Network
 
 Overview
